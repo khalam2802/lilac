@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Mar 2023 16:30:16 at https://www.wiselythemes.com/html/lilac/?fbclid=IwAR1YZtnYnywVhNGNUc8Y0gnNC4vxsefluujPTJFr7CJXN0yzJ_cpFGp2Nb4 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wiselythemes.com/html/lilac/?fbclid=IwAR1YZtnYnywVhNGNUc8Y0gnNC4vxsefluujPTJFr7CJXN0yzJ_cpFGp2Nb4 -O1 "C:\Users\Admin\OneDrive - VLG\My file\Pizitech\dsaasdasdas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:31:02	Error: 	"Not Found" (404) at link https://www.wiselythemes.com/html/lilac/css/grabbing.png (from https://www.wiselythemes.com/html/lilac/css/style.css)
+16:31:02	Error: 	"Not Found" (404) at link https://www.wiselythemes.com/html/lilac/css/AjaxLoader.gif (from https://www.wiselythemes.com/html/lilac/css/style.css)
+16:31:02	Error: 	"Not Found" (404) at link https://www.wiselythemes.com/html/lilac/images/divider_2_mobile.png (from https://www.wiselythemes.com/html/lilac/css/style.css)
+16:31:02	Error: 	"Not Found" (404) at link https://www.wiselythemes.com/html/lilac/images/divider_5_mobile.png (from https://www.wiselythemes.com/html/lilac/css/style.css)
+16:31:03	Warning: 	Permanent Redirect for pinterest.com/robots.txt
+16:31:03	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/robots.txt and https://pinterest.com/robots.txt
+16:31:03	Warning: 	Warning moved treated for pinterest.com/robots.txt (real one is https://pinterest.com/robots.txt)
+16:31:03	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html&description=Lilac%20Blog%20Post&media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg
+16:31:03	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html&description=Lilac%20Blog%20Post&media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg and https://pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html&description=Lilac%20Blog%20Post&media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg
+16:31:03	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html&description=Lilac%20Blog%20Post&media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg to https://pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html&description=Lilac%20Blog%20Post&media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg
+16:31:03	Error: 	"Not Found" (404) at link https://www.wiselythemes.com/html/lilac/css/owl.video.play.png (from https://www.wiselythemes.com/html/lilac/css/owl.carousel.min.css)
+16:31:03	Warning: 	Permanent Redirect for https://pinterest.com/robots.txt
+16:31:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/robots.txt and https://www.pinterest.com/robots.txt
+16:31:03	Warning: 	Warning moved treated for https://pinterest.com/robots.txt (real one is https://www.pinterest.com/robots.txt)
+16:31:03	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html%26description=Lilac%20Blog%20Post%26media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg
+16:31:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html%26description=Lilac%20Blog%20Post%26media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg and https://www.pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html%26description=Lilac%20Blog%20Post%26media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg
+16:31:03	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html%26description=Lilac%20Blog%20Post%26media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg to https://www.pinterest.com/pin/create/button/?url=http://www.wiselythemes.com/html/lilac/blog-single.html%26description=Lilac%20Blog%20Post%26media=http%3A%2F%2Fwww.wiselythemes.com%2Fhtml%2Flilac%2Fimages%2Fblog-image1.jpg
+
+HTTrack Website Copier/3.49-2 mirror complete in 47 seconds : 127 links scanned, 117 files written (11707951 bytes overall) [10786304 bytes received at 229495 bytes/sec], 1512447 bytes transferred using HTTP compression in 36 files, ratio 34%, 12.7 requests per connection
+(5 errors, 12 warnings, 0 messages)
